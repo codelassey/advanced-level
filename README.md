@@ -135,15 +135,15 @@ Checked stolen cookies: `cat /var/www/html/stolen.txt`
 
 ![shot](SHOTS/media/image28.png)
 
-![](SHOTS/media/image29.png)
+![shot](SHOTS/media/image29.png)
 
-![](SHOTS/media/image30.png)
+![shot](SHOTS/media/image30.png)
 
-![](SHOTS/media/image31.png)
+![shot](SHOTS/media/image31.png)
 
-![](SHOTS/media/image32.png){
+![shot](SHOTS/media/image32.png){
 
-![](SHOTS/media/image33.png)
+![shot](SHOTS/media/image33.png)
 
 ![](SHOTS/media/image34.png)
 
