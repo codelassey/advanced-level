@@ -145,23 +145,23 @@ Checked stolen cookies: `cat /var/www/html/stolen.txt`
 
 ![shot](SHOTS/media/image33.png)
 
-![](SHOTS/media/image34.png)
+![shot](SHOTS/media/image34.png)
 
-![](SHOTS/media/image35.png)
+![shot](SHOTS/media/image35.png)
 
-![](SHOTS/media/image36.png)
+![shot](SHOTS/media/image36.png)
 
-![](SHOTS/media/image37.png)
+![shot](SHOTS/media/image37.png)
 
-![](SHOTS/media/image38.png)
+![shot](SHOTS/media/image38.png)
 
-![](SHOTS/media/image39.png)
+![shot](SHOTS/media/image39.png)
 
-![](SHOTS/media/image40.png)
+![shot](SHOTS/media/image40.png)
 
-![](SHOTS/media/image41.png)
+![shot](SHOTS/media/image41.png)
 
-![](SHOTS/media/image42.png)
+![shot](SHOTS/media/image42.png)
 
 # Analysis
 
