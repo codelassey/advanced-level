@@ -129,11 +129,11 @@ Checked stolen cookies: `cat /var/www/html/stolen.txt`
 
 ![shot](SHOTS/media/image25.png)
 
-![](SHOTS/media/image26.png)
+![shot](SHOTS/media/image26.png)
 
-![](SHOTS/media/image27.png)
+![shot](SHOTS/media/image27.png)
 
-![](SHOTS/media/image28.png)
+![shot](SHOTS/media/image28.png)
 
 ![](SHOTS/media/image29.png)
 
